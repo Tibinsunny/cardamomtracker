@@ -1,0 +1,29 @@
+.about-page{
+    height: 100vh;
+    background-color: rgb(33, 39, 48) !important;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 60px;
+}
+.title{
+    color:white;
+}
+.container{
+    display: flex;
+    align-items: center;
+    margin-top: 5px;
+    border-radius: 1.3em;
+    color: white;
+    justify-content: center;
+    flex-direction: column;
+    height: 250px;
+    width:550px;
+    border: 1px solid rgb(172, 144, 144);
+    
+
+}
+.title-content{
+margin-top: 21px;
+margin-left: 12px;
+}
